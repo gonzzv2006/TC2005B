@@ -1,39 +1,39 @@
 # Breakout - Gonzalo Zamarrón
 
-Juego de Breakout hecho con HTML5 Canvas y JavaScript como parte del curso TC2005B.
+Breakout game made with HTML5 Canvas and JavaScript as part of the TC2005B course.
 
-## ¿Cómo correr el juego?
+## How to run the game
 
-1. Clona o descarga el repositorio
-2. Abre el archivo `indexbreakout.html` en tu navegador
-3. Ya puede jugarlo  
+1. Clone or download the repository
+2. Open the `indexbreakout.html` file in your browser
+3. That's it, you're ready to play!
 
-## Controles
+## Controls
 
-| Tecla | Acción |
-|-------|--------|
-| `A` | Mover la paleta a la izquierda |
-| `D` | Mover la paleta a la derecha |
-| `Espacio` | Lanzar la pelota |
+| Key | Action |
+|-----|--------|
+| `A` | Move paddle left |
+| `D` | Move paddle right |
+| `Space` | Launch the ball |
 
-## Reglas
+## Rules
 
-- Tienes 3 vidas para completar los 3 niveles
-- Si la pelota cae al fondo pierdes una vida
-- Si pierdes todas las vidas, es Game Over
-- Debes romper todos los bloques de cada nivel para avanzar
+- You have 3 lives to complete all 3 levels
+- If the ball falls to the bottom you lose a life
+- If you lose all your lives, it's Game Over
+- You must break all the blocks in each level to advance to the next one
 
-## Objetivo
+## Objective
 
-Romper todos los bloques rojos sin dejar caer la pelota. Completa los 3 niveles para ganar.
+Break all the red blocks without letting the ball fall. Complete all 3 levels to win.
 
-## Niveles
+## Levels
 
-- **Nivel 1:** 4 filas de bloques, sin obstáculos
-- **Nivel 2:** 4 filas de bloques + una barra móvil debajo de los bloques que bloquea el camino de la pelota
-- **Nivel 3:** 5 filas de bloques + barras móviles entre cada fila que hacen más difícil llegar a los bloques de arriba
+- **Level 1:** 4 rows of blocks, no obstacles
+- **Level 2:** 4 rows of blocks + a moving bar below the blocks that gets in the way of the ball
+- **Level 3:** 5 rows of blocks + moving bars between each row that make it harder to reach the blocks at the top
 
-## Tecnologías usadas
+## Technologies used
 
 - HTML5
 - JavaScript
