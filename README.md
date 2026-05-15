@@ -6,7 +6,7 @@ Breakout game made with HTML5 Canvas and JavaScript as part of the TC2005B cours
 
 1. Clone or download the repository
 2. Open the `indexbreakout.html` file in your browser
-3. That's it, you're ready to play!
+3. You can play my game 
 
 ## Controls
 
